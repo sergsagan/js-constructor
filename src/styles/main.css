@@ -2,11 +2,14 @@
     position: relative;
 }
 .content {
-    padding: 15px;
+    padding: 0 15px;
     position: absolute;
     top: 0;
     right: 0;
     left: 200px;
+}
+p {
+    padding: 15px 0 0;
 }
 
 .sidebar {
